@@ -1,7 +1,7 @@
 # MI-BCI
 ***MI-BCI*** means ***minimal invasive brain-computer interface (BCI)***. 
 The repository is the sample code for the paper "[Intracranial brain-computer interface 
-spelling using localized visual motion response](https://doi.org/10.1016/j.neuroimage.2022.119363)."
+spelling using localized visual motion response](https://doi.org/10.1016/j.neuroimage.2022.119363)" published in NeuroImage.
 
 ## Content
 
